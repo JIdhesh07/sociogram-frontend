@@ -1,0 +1,7 @@
+.holly::-webkit-scrollbar{
+    display: none;
+}
+
+.scroll::-webkit-scrollbar{
+    display: none;
+}

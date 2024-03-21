@@ -1,0 +1,135 @@
+              <h5 className='mt-3 ms-5'>Hollywood</h5>
+       <div  style={{display:"flex",overflowX:"scroll"}} className='holly'>                 
+                     <img style={{height:"250px",width:"30%"}} className='ms-5' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" /> 
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+
+       </div>
+
+       <h5 className='mt-3 ms-5'>Hollywood</h5>
+       <div  style={{display:"flex",overflowX:"scroll"}} className='holly'>                 
+                     <img style={{height:"250px",width:"30%"}} className='ms-5' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" /> 
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+
+       </div>
+
+
+       <h5 className='mt-3 ms-5'>Hollywood</h5>
+       <div  style={{display:"flex",overflowX:"scroll"}} className='holly'>                 
+                     <img style={{height:"250px",width:"30%"}} className='ms-5' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" /> 
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+                     <img style={{height:"250px",width:"30%"}} className='ms-1' src={"https://i.postimg.cc/NFB4nmDP/animals.jpg"} alt="" />   
+
+       </div>
+
+
+              <div className='container ms-5 mt-4' style={{backgroundImage:`url(${"https://i.postimg.cc/9QdDyPZ4/gobweb.jpg"})`,width:"95%",height:"300px",backgroundSize:"cover"}}>
+               <div><h5 className='ms-3 text-light text-end'>Trending Now</h5></div>
+                </div>
+
+
+
+
+                                <InputGroup className="mb-3 mt-4 w-75 container">
+                  <InputGroup.Text id="basic-addon1"><i class="fa-solid fa-magnifying-glass"></i></InputGroup.Text>
+                  <Form.Control
+                    placeholder="search your movies reviews...."
+                    aria-label="Username"
+                    aria-describedby="basic-addon1"
+                  />
+                </InputGroup>
+
+                <div>
+                  <h5 className='text-center mt-5'>Great Muster and reviews from over federation.</h5>
+
+                  <p style={{ width: "80%" }} className='container mt-4'> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Dolore ipsam repellendus ullam aut aliquam maiores laborum quibusdam dolorum veritatis tempore,
+                    minima delectus quisquam voluptatum cumque sapiente corporis corrupti, blanditiis ipsum?</p>
+                </div>
+
+                <h5 style={{ width: "80%" }} className='container mt-4'>explore your fellows Musters</h5>
+
+                <div style={{ width: "80%" }} className='container'>
+                  <div className='mt-4' >
+                    <img className=' d-inline-block ' style={{ height: '40px', width: "40px", marginTop: "" }} src="https://i.postimg.cc/6qpQVdWK/color.png" alt="" />{' '} <span style={{ marginTop: '80px' }} className='ms-3 '>jhon candid</span>
+                    <hr />
+                  </div>
+                  <div className='container mb-3' style={{ height: "200px", width: "95%", backgroundColor: 'whitesmoke' }}>
+
+
+                  </div>
+                  <h6 className='ms-3'>Rating: </h6>
+                  <p className='ms-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non atque, numquam expedita,
+                    ducimus quidem obcaecati quam quae dignissimos iste id officia. Neque deleniti obcaecati amet earum distinctio?
+                    Cumque, ab vitae!</p>
+                  <p><i class="fa-solid fa-thumbs-up"></i> 1</p>
+                  <hr />
+
+                </div>
+
+
+
+
+feed 
+
+<div className='shadow-sm container' style={{ borderRadius: '10px', width: '90%', height: "450px" }}>
+                    <div className='mt-4 ' style={{ display: 'flex' }}>
+                      <img className=' d-inline-block mt-2' style={{ height: '40px', width: "40px", marginTop: "" }} src="https://i.postimg.cc/6qpQVdWK/color.png" alt="" />{' '} <h6 className='ms-3 mt-3'>jhon candid</h6>
+                      <p className='ms-4 mt-3' style={{ fontSize: 'small' }}>5 minitues ago.</p>
+                      <p className='ms-auto mt-3 me-4' ><b>...</b></p>                    <hr />
+
+                      <hr />
+                    </div>
+                    <div className='container mb-3' style={{ height: "200px", width: "95%", backgroundColor: 'whitesmoke' }}>
+
+                      <img style={{ width: "100%", maxHeight: "200px", objectFit: "contain" }} src="https://i.postimg.cc/BZDDnmS7/assss.jpg" alt="" />
+
+                    </div>
+                    <h6 className='ms-3'>Rating: </h6>
+                    <p className='ms-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non atque, numquam expedita,
+                      Cumque, ab vitae!</p>
+                    <div style={{ display: 'flex' }}>
+                      <p className='ms-4 mt-4' style={{ cursor: "pointer" }}><i class="fa-solid fa-thumbs-up"></i>Likes <span>1</span> </p>
+
+                      <p className='ms-auto mt-4 me-4' style={{ cursor: "pointer" }}>4 <i class="fa-solid fa-comments"></i> comments</p>
+
+
+                    </div>
+                  </div>
+
+
+
+
+
+                      const newPost={
+      userId:userId,
+      desc:desc.current.value
+    }
+    if(file){
+      const data = new FormData();
+      data.append("img",file)
+      data.append("name")
+    }
+    try{
+       await createapostApi()
+    }catch(err){
+
+    }
+
+
+        const newPost = new posts(req.body)
+
+    const img=req.file.filename
+    try{
+          const savedPost = await newPost.save()
+          res.status(200).json(savedPost)
+    }catch(err){
+        res.status(401).json(err)
+    }
